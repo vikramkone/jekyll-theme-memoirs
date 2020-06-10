@@ -2,8 +2,8 @@
 name: "Vikram Kone"
 title: "Vikram Kone"
 description: "Hi there. Welcome to my world!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/vikram.jpeg'
+favicon: 'assets/images/vikram.jpeg'
 baseurl: ''
 url: 'https://vikramkone.github.io'
 google_analytics: 'UA-17137344-4'
@@ -18,12 +18,12 @@ authors:
   sal:
     name: Vikram
     display_name: Vikram
-    gravatar: 
+    gravatar:
     email: vikramkone@gmail.com
     web: https://www.vikramkone.com
     twitter: https://twitter.com/vikramkone
     description: "Data Nerd. Father of Vaaryan and Husband of Upasana. Love travel, food, movies and books."
-  
+
 # Plugins
 plugins:
   - jekyll-paginate
@@ -32,7 +32,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -40,11 +40,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 highlighter: rogue
 markdown: kramdown
