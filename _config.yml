@@ -2,8 +2,8 @@
 name: "Vikram Kone"
 title: "Vikram Kone"
 description: "Hi there. Welcome to my world!"
-logo: 'assets/images/vikram.jpeg'
-favicon: 'assets/images/vikram.jpeg'
+logo: 'assets/images/my-logo.png'
+favicon: 'assets/images/my-logo.png'
 baseurl: ''
 url: 'https://vikramkone.github.io'
 google_analytics: 'UA-17137344-4'
@@ -22,7 +22,7 @@ authors:
     email: vikramkone@gmail.com
     web: https://www.vikramkone.com
     twitter: https://twitter.com/vikramkone
-    description: "Data Nerd. Father of Vaaryan and Husband of Upasana. Love travel, food, movies and books."
+    description: "Data Nerd. Eat, Play and Travel."
 
 # Plugins
 plugins:
